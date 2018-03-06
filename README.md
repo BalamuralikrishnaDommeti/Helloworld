@@ -59,5 +59,5 @@ Now that you have a minimal example running, here are some ideas on how to dig f
  * create a similar helloworld example in your favorite programming language
  * use node labels to run your builds on specific nodes only
  * try modeling more complex pipelines with parallel execution etc 
- * Commit version 1
+ * Commit version 2
  * ...
